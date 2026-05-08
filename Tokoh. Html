@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <title>Vladimir Putin</title>
+    <style>
+        body {
+            background-color: blue;
+        }
+      
+        
+        .container {
+            width: 75%;
+            margin: 30px auto;
+            background: #fff;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+            border: 10px;
+            border-radius: 10px;
+        }
+        h1 {
+            text-align: center;
+            color: #4a3f35;
+        }
+        .profile-img {
+            display: block;
+            margin: 15px auto;
+            max-width: 200px;
+            border-radius: 8px;
+            border: 2px solid #ddd;
+        }
+        .section-title {
+            margin-top: 25px;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 8px;
+        }
+        td {
+            padding: 8px;
+            border-bottom: 1px solid #eee;
+        }
+        a {
+            color: #0066cc;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        p {
+            text-align: justify;
+            line-height: 1.5;
+        }
+    </style>
+</head>
+    
+<body>
+
+<div class="container">
+    <h1>Vladimir Putin</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpSGRNzCVAUSZbeeKVpId_EEIDnNHe03rG84jGOwDg5g&s"
+         alt="Foto Vladimir Putin"
+         class="profile-img">
+
+    <!-- Link eksternal -->
+    <p style="text-align:center;">
+        Info lebih lengkap: 
+        <a href="https://id.wikipedia.org/wiki/Vladimir_Putin" target="_blank">
+            Wikipedia (Vladimir Putin)
+        </a>
+    </p>
+
+    <div class="section-title">Ringkasan</div>
+    <table>
+        <tr>
+            <td><b>Tanggal lahir</b></td>
+            <td>7 Oktober 1952</td>            
+            <td>umur 73</td>
+        </tr>
+        <tr>
+            <td><b>Tempat lahir</b></td>
+            <td>Leningrad, Uni Soviet</td>
+        </tr>
+        <tr>
+            <td><b>Profesi</b></td>
+            <td>Politikus</td>
+        </tr>
+        <tr>
+            <td><b>Jabatan</b></td>
+            <td>Presiden Rusia</td>
+        </tr>
+    </table>
+
+    <div class="section-title">Biografi Singkat</div>
+    <p>
+        Vladimir Vladimirovich Putin adalah seorang politikus yang telah menjadi Presiden Rusia 
+        dalam beberapa periode. Ia memulai kariernya sebagai anggota badan intelijen Soviet 
+        (KGB) sebelum beralih ke dunia politik. Putin dikenal karena gaya kepemimpinannya yang 
+        tegas dan peranan pentingnya dalam politik nasional serta hubungan internasional Rusia.
+    </p>
+    <h2>alasan saya menyukainya</h2>
+    <p>karna
+        Di bawah kepemimpinannya, Rusia tetap menjadi salah satu aktor kuat di panggung global. 
+        Banyak kebijakan dalam negeri dan luar negeri yang mendapat perhatian dari berbagai 
+        negara dan analis politik di seluruh dunia.
+    </p>
+</div>
+
+</body>
+</html>
